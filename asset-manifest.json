@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/amazon-page-home-clone/static/css/main.41f288bb.css",
+    "main.js": "/amazon-page-home-clone/static/js/main.07706a14.js",
+    "static/media/amazon_logo.png": "/amazon-page-home-clone/static/media/amazon_logo.5ec6844ddb6d618d8fee.png",
+    "static/media/hero_image.jpg": "/amazon-page-home-clone/static/media/hero_image.620045ce353b8e61f52c.jpg",
+    "static/media/train.jpg": "/amazon-page-home-clone/static/media/train.70d2ff12bb7318d387d6.jpg",
+    "static/media/asus_store.jpg": "/amazon-page-home-clone/static/media/asus_store.5bd8d21fb892ae87003d.jpg",
+    "static/media/pharma.jpg": "/amazon-page-home-clone/static/media/pharma.505e99a6a48b0bc04674.jpg",
+    "static/media/bus.jpg": "/amazon-page-home-clone/static/media/bus.bc3ec1a39357626a7ba5.jpg",
+    "static/media/plane.jpg": "/amazon-page-home-clone/static/media/plane.cf29358179efdbe53eb0.jpg",
+    "static/media/brands.jpg": "/amazon-page-home-clone/static/media/brands.a4c6e337e92758e6a742.jpg",
+    "index.html": "/amazon-page-home-clone/index.html",
+    "main.41f288bb.css.map": "/amazon-page-home-clone/static/css/main.41f288bb.css.map",
+    "main.07706a14.js.map": "/amazon-page-home-clone/static/js/main.07706a14.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41f288bb.css",
+    "static/js/main.07706a14.js"
+  ]
+}
