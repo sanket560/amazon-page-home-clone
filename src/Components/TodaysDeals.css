@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.todaysDeals{
+    height: 350px;
+    background-color: #fff;
+    width: 95%;
+    margin: auto;
+    margin-top: -230px;
+}
+.todaysDeals h2{
+    padding: 20px 0;
+    margin-left: 36px;
+    font-size: 21px;
+}
+.product{
+    display: flex;
+    justify-content: space-around;
+    align-items:center;
+    flex-wrap: nowrap;
+}
+.product_card{
+    margin-left: 20px;
+    height: 200px;
+    width: 230px;
+}
+.product_img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20px;
+    background-color: #eee;
+}
+.details{
+    margin-top: 10px;
+    font-size: 14px;
+}
+.discount{
+    background-color:#cc0c39;
+    padding: 2px 6px;
+    border-radius: 3px;
+    color: #fff;
+    margin-right: 5px;
+}
+.offer{
+    color: #cc0c39;
+    margin-bottom: 5px;
+}
+.rate{
+    font-size: 17px;
+}
+.original_rate{
+    font-size: 12px;
+    color: gray;
+}
+
+@media (max-width: 500px) {
+    .hide {
+      display: none; /* Show the components when screen width is at least 500px */
+    }
+  }

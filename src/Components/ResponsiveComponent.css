@@ -1,0 +1,10 @@
+.desktop-view-only::after {
+    content: "This site is only available for desktop view.";
+    display: block;
+    text-align: center;
+    font-size: 18px;
+    padding: 20px;
+    background-color: #f8f8f8;
+    color: #333;
+  }
+  

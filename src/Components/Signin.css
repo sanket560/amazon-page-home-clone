@@ -1,0 +1,30 @@
+.Signin_content{
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 150px;
+}
+.content{
+    width: 260px;
+    text-align: center;
+}
+.button{
+    margin: 10px 0;
+    width: 100%;
+    padding: 5px 0;
+    background-color:#f7ca00 ;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.start{
+    color: darkslategray;
+    margin-left: 5px;
+}
+
+@media (max-width: 500px) {
+    .hide {
+      display: none; /* Show the components when screen width is at least 500px */
+    }
+  }

@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.longfooter{
+    height: 300px;
+    background-color:#232f3e;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 40px;
+    color: #fff;
+}
+.longfooter h3{
+    margin-bottom: 10px;
+}
+.longfooter p{
+    margin-bottom: 10px;
+    font-size: 12px;
+    cursor: pointer;
+}
+@media (max-width: 500px) {
+    .hide {
+      display: none; /* Show the components when screen width is at least 500px */
+    }
+  }

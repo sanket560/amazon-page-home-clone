@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+}
+.subnavbar{
+    background-color: #485769;
+    height: 30px;
+    display: flex;
+    align-items:center ;
+    color: #fff;
+}
+.subnavbar p{
+    margin:0 10px;
+    font-size: 14px;
+    cursor: pointer;
+    padding: 3px;
+    border: 1.5px solid transparent;
+}
+
+.border:hover{
+    border-radius: 1.5px solid #fff;
+    padding: 3px;
+}
+@media (max-width: 500px) {
+    .hide {
+      display: none; /* Show the components when screen width is at least 500px */
+    }
+  }

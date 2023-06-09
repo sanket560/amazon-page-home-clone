@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.women_wear{
+    height: 250px;
+    background-color: #fff;
+    width: 95%;
+    margin:50px auto;
+}
+
+h2{
+    padding: 10px 0;
+    margin-left: 35px;
+}
+
+.products{
+    display: flex;
+    justify-content: space-around;
+}
+@media (max-width: 500px) {
+    .hide {
+      display: none; /* Show the components when screen width is at least 500px */
+    }
+  }

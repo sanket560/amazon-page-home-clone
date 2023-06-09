@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .footer{
+    background-color: #485769;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+    color: #fff;
+  }
+  .footer p{
+    padding: 10px 0;
+    cursor: pointer;
+  }
+  @media (max-width: 500px) {
+    .hide {
+      display: none; /* Show the components when screen width is at least 500px */
+    }
+  }
